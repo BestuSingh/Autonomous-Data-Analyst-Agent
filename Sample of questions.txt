@@ -1,0 +1,19 @@
+"Analyze the dataset and focus specifically on how churn varies across different contract types."
+
+"Analyze the dataset and explain the relationship between tenure and customer churn behavior."
+
+"Analyze the dataset and compare customer distribution and churn patterns across different payment methods."
+
+"Analyze the dataset and evaluate how monthly charges differ between churned and non-churned customers."
+
+"Analyze the dataset and identify which customer segments contribute the most and least to total charges."
+
+"Analyze the dataset and explain how internet service type impacts customer churn."
+
+"Analyze the dataset and compare churn behavior between senior citizens and non-senior customers."
+
+"Analyze the dataset and identify the top and bottom performing customer groups based on total charges."
+
+"Analyze the dataset and detect any major imbalance or pattern in churn distribution."
+
+"Analyze the dataset and highlight key factors that appear to influence customer churn the most."
